@@ -8,6 +8,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 npm install
 npm run dev
 ```
+Live reload at https://67cb1d2f9901da52b06a176e--candid-bombolone-6ec828.netlify.app/stores
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
